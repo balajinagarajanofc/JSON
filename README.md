@@ -1,4 +1,4 @@
-"# Resumedata" 
+# Resumedata
 
 # JSON data & looping iterations
 
